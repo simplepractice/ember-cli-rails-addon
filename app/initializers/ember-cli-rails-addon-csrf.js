@@ -1,6 +1,5 @@
 import Ember from 'ember';
-
-const { $ } = Ember;
+import $ from 'jquery';
 
 export default {
   name: 'ember-cli-rails-addon-csrf',
